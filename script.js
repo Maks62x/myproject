@@ -89,29 +89,33 @@
 // alert(`Привет, ${user}`);
                                         //Lesson N4 interpolation operators in JS
 
-console.log('arr' + " - object");
+// console.log('arr' + " - object");
 //console.log(4 + +" - object");
-console.log(4 + +"5");
+// console.log(4 + +"5");
 
-let incr = 10,
-    decr = 10;
+// let incr = 10,
+//     decr = 10;
 //incr++; //lift up at 1 number; Постфиксцная система записи
 //decr--; //down up at 1 number; Постфиксцная система записи
-++incr; // Префиксная система записи
---decr; // Префиксная система записи
-console.log(++incr);
-console.log(--decr);
+// ++incr; // Префиксная система записи
+// --decr; // Префиксная система записи
+// console.log(++incr);
+// console.log(--decr);
 
-console.log(5%2);// Возвращает остаток от деления 
+// console.log(5%2);// Возвращает остаток от деления 
 
-console.log(2*4 == '8'); //оператор сравнивания
-console.log(2*4 === 8); //оператор Строгого сравнивания
-console.log(2 + 2 * 2 !== '6');
+// console.log(2*4 == '8'); //оператор сравнивания
+// console.log(2*4 === 8); //оператор Строгого сравнивания
+// console.log(2 + 2 * 2 !== '6');
 
 // && // и
 // || // или 
 // !  // оператор отрицания
 
-const isChecked = true;
-      isClose = false;
-        console.log(isChecked || isClose);
+// const isChecked = true;
+//       isClose = false;
+//         console.log(isChecked || isClose);
+
+                                        //Lesson N5 interpolation operators in JS
+
+
